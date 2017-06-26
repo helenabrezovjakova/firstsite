@@ -1,0 +1,49 @@
+header {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pebbleswithquarzite.jpg/1200px-Pebbleswithquarzite.jpg");
+	background-size: cover;
+	/*background: -webkit-radial-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,0))
+	*/
+}
+
+h1 {
+	color: #fffbfd;
+	font-family: 'Pacifico', cursive;
+	font-size: 75px;
+	text-align: center;
+	margin-top: 40px;
+	padding-left: -100px;
+}
+
+h2 {
+	font-family: 'Slabo 27px', serif;
+	color: #fff9fc;
+	text-align: center;
+	font-size: 30px;
+}
+
+h3 {
+	font-family: 'Pacifico', cursive;
+	color: #fff6fb;
+	font-size: 20px;
+}
+
+body {
+	background-color: black;
+	margin: 0 130px 0 130px;
+}
+
+p {
+	color: #ccc4c8;
+	font-family: 'Slabo 27px', serif;
+	font-size: 20px;
+}
+
+.hobby {
+	text-align: justify;
+	padding-left: 230px;
+	padding-right: 230px;
+}
+
+.pebbles {
+	background-size: cover;;
+}
